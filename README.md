@@ -1,1 +1,1 @@
-A quick script for reformatting formulas from software analysis related debug output.
+
